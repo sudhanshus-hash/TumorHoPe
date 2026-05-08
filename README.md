@@ -12,6 +12,7 @@ Kapoor, P., Singh, H., Gautam, A., Chaudhary, K., Kumar, R., & Raghava, G. P. S.
 **TumorHoPe: A Database of Tumor Homing Peptides.** *PLoS ONE*, 7(4), e35187. 
 [https://doi.org/10.1371/journal.pone.0035187](https://doi.org/10.1371/journal.pone.0035187)
 
+The dataset can be also found on Zenodo (https://doi.org/10.5281/zenodo.20072242)
 
 
 ## About the Database
